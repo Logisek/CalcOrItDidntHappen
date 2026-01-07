@@ -196,6 +196,7 @@ python Fsquirt.py
 ```
 
 - https://github.com/mhaskar/FsquirtCPLPoC
+- https://learn.microsoft.com/en-us/previous-versions//dn133848(v=vs.85)?redirectedfrom=MSDN
 
 ---
 
