@@ -187,6 +187,18 @@ python Ftp.py
 
 ---
 
+### Fsquirt
+
+**Bluetooth File Transfer Wizard - DLL Sideloading via bthprops.cpl**
+
+```bash
+python Fsquirt.py
+```
+
+- https://github.com/mhaskar/FsquirtCPLPoC
+
+---
+
 ## BLUE
 
 ### Microsoft Intune Configuration - Blocking Unwanted Executables
